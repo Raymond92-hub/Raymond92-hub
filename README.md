@@ -1,5 +1,5 @@
 
-[![MasterHead](arduino.gif)](https://rishavchanda.i
+[![MasterHead](arduino.gif)](https://rishavchanda.i)
 
 <h1 align="center">Hi 👋, I'm Raymond Senyo Bewu</h1>
 <h3 align="center">A passionate mechanical engineer and embedded systems engineer based in Ghana</h3>
