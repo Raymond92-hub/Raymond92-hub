@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **A pepertual motion machine to generate electrical energy**
 
-- 🤝 I’m looking for help with **A pepertual motion machine to generate electrical energy**
+- 🤝 I’m looking for help with **a pepertual motion machine to generate electrical energy**
 
 - 👨‍💻 My website: [https://raymondsenyo.engineer/] 
 
