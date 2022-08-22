@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Raymond Senyo Bewu</h1>
 <h3 align="center">A passionate mechanical engineer and embedded systems engineer based in Ghana</h3>
 
-<img src="https://c.tenor.com/RpxxkrGJ5VIAAAAM/thumbs-up-engineer-gaming.gif" width="230" alt="coding">
+<img src="https://c.tenor.com/RpxxkrGJ5VIAAAAM/thumbs-up-engineer-gaming.gif" width="230" alt="coding" align="center">
 
 - 🔭 I’m currently working on [Automatic curtian roller to sense the presense of rain droplets](https://github.com/Raymond92-hub/Raymond92-hub)
 
