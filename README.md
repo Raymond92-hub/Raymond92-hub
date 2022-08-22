@@ -5,6 +5,8 @@
 
 <img src="https://c.tenor.com/RpxxkrGJ5VIAAAAM/thumbs-up-engineer-gaming.gif" width="230" alt="coding" align="center">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raymond92-hub&label=Profile%20views&color=0e75b6&style=flat" alt="raymond92-hub" /> </p>
+
 - 🔭 I’m currently working on [Automatic curtian roller to sense the presense of rain droplets](https://github.com/Raymond92-hub/Raymond92-hub)
 
 - 🌱 I’m currently learning **micro-controller embedded C programming**
