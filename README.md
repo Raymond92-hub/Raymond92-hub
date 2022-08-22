@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **A pepertual motion machine to generate electrical energy**
 
-- 👨‍💻 My website: [http://raymondsenyo.engineer/]([http://solomonadeklo.me/](http://raymondsenyo.engineer/))
+- 👨‍💻 My website: [https://raymondsenyo.engineer/] (https://raymondsenyo.engineer/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raymond92-hub?tab=repositories](https://github.com/Raymond92-hub?tab=repositories)
 
