@@ -1,4 +1,4 @@
- <img src="https://linuxhint.com/wp-content/uploads/2022/03/image4-2.gif" width="600" alt="coding" align="center">
+
 
 <h1 align="center">Hi 👋, I'm Raymond Senyo Bewu</h1>
 <h3 align="center">A passionate mechanical engineer and embedded systems engineer based in Ghana</h3>
