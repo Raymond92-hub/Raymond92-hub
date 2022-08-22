@@ -5,8 +5,6 @@
 
 <img src="https://c.tenor.com/RpxxkrGJ5VIAAAAM/thumbs-up-engineer-gaming.gif" width="230" alt="coding">
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/raymondsenyo4" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/raymondsenyo4?logo=twitter&style=for-the-badge" alt="https://twitter.com/raymondsenyo4" /></a> </p>
-
 - 🔭 I’m currently working on [Automatic curtian roller to sense the presense of rain droplets](https://github.com/Raymond92-hub/Raymond92-hub)
 
 - 🌱 I’m currently learning **micro-controller embedded C programming**
@@ -15,7 +13,7 @@
 
 - 🤝 I’m looking for help with **A pepertual motion machine to generate electrical energy**
 
-👨‍💻 My website: [http://raymondsenyo.engineer/]([http://solomonadeklo.me/](http://raymondsenyo.engineer/))
+- 👨‍💻 My website: [http://raymondsenyo.engineer/]([http://solomonadeklo.me/](http://raymondsenyo.engineer/))
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raymond92-hub?tab=repositories](https://github.com/Raymond92-hub?tab=repositories)
 
