@@ -7,11 +7,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raymond92-hub&label=Profile%20views&color=0e75b6&style=flat" alt="raymond92-hub" /> </p>
 
-- 🔭 I’m currently working on [Automatic curtian roller to sense the presense of rain droplets](https://github.com/Raymond92-hub/Raymond92-hub)
+- 🔭 I’m currently working on [Automatic Curtian Roller to sense the presense of rain droplets](https://github.com/Raymond92-hub/Raymond92-hub)
 
 - 🌱 I’m currently learning **micro-controller embedded C programming**
 
-- 👯 I’m looking to collaborate on **A pepertual motion machine to generate electrical energy**
+- 👯 I’m looking to collaborate on **a pepertual motion machine to generate electrical energy**
 
 - 🤝 I’m looking for help with **a pepertual motion machine to generate electrical energy**
 
